@@ -8,7 +8,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=fl-t-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems-Workflow-Orchestration?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Workflow-Orchestration/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Systems-Workflow-Orchestration?style=social)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Workflow-Orchestration/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Workflow-Orchestration/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Multi-Agent-Systems-Workflow-Orchestration/graphs/commit-activity)
@@ -53,7 +53,7 @@ A comprehensive tabular breakdown of managed, enterprise, and hosted multi-agent
 
 A curated compilation of premier open-source multi-agent systems, autonomous runtime engines, and workflow frameworks. Sorted descending by GitHub stargazers count with verified social badges linking directly to their stargazers page.
 
-| 📦 Repository | ⭐ GitHub Stars Badge | 💻 Language | 📝 Description & Core Strengths |
+| 📦 Repository | ⭐ GitHub_Stars_Badge | 💻 Language | 📝 Description & Core Strengths |
 | :--- | :--- | :--- | :--- |
 | **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | [![AutoGPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | Python | Pioneering autonomous general-purpose agent framework with agent loops, memory management, and block-based workflow creation. 🤖 |
 | **[Dify](https://github.com/langgenius/dify)** | [![Dify Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | Python / TypeScript | Open-source LLM app development platform combining visual multi-agent workflow orchestration, RAG pipelines, and model evaluation. 🛠️ |
